@@ -1,5 +1,5 @@
 # JavaScript Basic +/- Counter
-> **Simple increment/decrement counter (+/-) created for start2impact **
+> ** Simple increment/decrement counter (+/-) created for start2impact **
 
 **This is a basic project, but useful to understand Basic JavaScript**
 
@@ -14,4 +14,4 @@
 
 ## Live Demo:
 > 
-** Or you can download the files in your local machine
+** Or you can download the files in your local machine **
