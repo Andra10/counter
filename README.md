@@ -13,5 +13,5 @@
 - JavaScript (Counter logic)
 
 ## Live Demo:
-> https://raw.githack.com/Andra10/counter/main/calculator/html/index.html
+> https://raw.githack.com/Andra10/counter/tree/main/calculator
 #### Or you can download the files in your local machine 
