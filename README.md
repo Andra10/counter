@@ -13,5 +13,5 @@
 - JavaScript (Counter logic)
 
 ## Live Demo:
-> 
+> https://raw.githack.com/Andra10/SimpleCounter/main/Counter/index.html
  Or you can download the files in your local machine 
